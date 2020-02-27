@@ -1,7 +1,7 @@
 base_path <- "/Shares/rinn_class/data/k562_chip/"
 full_path <- paste0(base_path, "results/bwa/mergedLibrary/deepTools/plotProfile/")
 
-home_path <- "/Users/sosh9992/BCHM5631/"
+home_path <- "/Users/sosh9992/BCHM-5631/"
 setwd(home_path)
 
 library(tidyverse)
